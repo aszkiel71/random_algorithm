@@ -1,7 +1,7 @@
 # tbh it's easiest than expected
 # algorithm from #0 to-do-list from University of Wrocław (Computer Science) 
 
-# enter:
+# entry:
 # a -> real number, belongs to [0, 1)
 #
 # exit:
