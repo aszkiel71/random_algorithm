@@ -1,5 +1,5 @@
 # tbh it's easiest than expected
-# algorithm from #0 to-do-list from University of Wrocław (Computer Sience) 
+# algorithm from #0 to-do-list from University of Wrocław (Computer Science) 
 
 # enter:
 # a -> real number, belongs to [0, 1)
